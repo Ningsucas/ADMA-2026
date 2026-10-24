@@ -6,7 +6,7 @@ ADMA 2026, Special Session on Responsible Data Intelligence (full paper)
 
 ## Materials
 
-- [Paper (author's accepted manuscript, PDF)](paper/How Reliable Is Learned Cardinality Estimation - Author Accepted Manuscript.pdf)
+- [Paper (Author Accepted Manuscript, PDF)](paper/How%20Reliable%20Is%20Learned%20Cardinality%20Estimation%20-%20Author%20Accepted%20Manuscript.pdf)
 - [Poster (PDF)](poster/ADMA2026_poster.pdf)
 
 The final authenticated version is available online at https://doi.org/DOI-TO-BE-ADDED
